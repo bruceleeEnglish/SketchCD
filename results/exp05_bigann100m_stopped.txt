@@ -1,0 +1,4 @@
+bigann100m	HierSuperKMeans	out of memory (swap grew by more than 3 GB)	53s
+bigann100m	QuantSuperKMeans	out of memory (swap grew by more than 3 GB)	78s
+bigann100m	SampleSuperKMeans	out of memory (swap grew by more than 3 GB)	789s
+bigann100m	FullSuperKMeans	out of memory (swap grew by more than 3 GB)	54s
